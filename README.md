@@ -31,6 +31,11 @@ sudo python main.py
 
 ## Usefull links and origional work
 
+http://inside.mines.edu/fs_home/whereman/papers/Hereman-Murphy-Trilateration-Manual-MCS-11-1991.pdf
+
+https://inside.mines.edu/~whereman/papers/Murphy-MS-Thesis-Complete-1992.pdf
+
+
 [Trilateration using Java] (https://github.com/lemmingapex/trilateration).
 
 [Levenberg-Marquardt algorithm](http://en.wikipedia.org/wiki/Levenberg%E2%80%93Marquardt_algorithm) from [Apache Commons Math](http://commons.apache.org/proper/commons-math/).
