@@ -1,5 +1,5 @@
 ## Description
-This is the software for developing the indoor positioning using RF RSSI (Bluetooth LE beacons) for the Middleware project.
+This is the software for developing the indoor positioning using RF RSSI (Bluetooth LE beacons).
 
 
 ## Installation
